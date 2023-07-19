@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1 align='center'>To-Do List</h1>
 
 A website for App To-Do List created with HTML & CSS & js!
@@ -27,3 +28,6 @@ A website for App To-Do List created with HTML & CSS & js!
 ## Credits
 * Fonts are from [Google Fonts](https://fonts.google.com)
 * README Badges are from [Badges Profile](https://github.com/habashyabdulrahman)
+=======
+# To-Do_List
+>>>>>>> 681022aeb25e3d05e62a91175131d596d1ce736d
