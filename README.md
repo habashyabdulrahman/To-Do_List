@@ -6,7 +6,7 @@ A website for App To-Do List created with HTML & CSS & js!
 🌱 I created this program to help me organize tasks, this is a joke, this program is very simple.
 
 ## Design Preview
-![design-view](imgs/design-view.png)
+![design-view](img/design-view.png)
 
 ## Live Demo
 👁 [Click here](https://habashyabdulrahman.github.io/To-Do_List/) to check out the live demo!
